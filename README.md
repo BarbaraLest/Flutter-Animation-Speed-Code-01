@@ -1,16 +1,13 @@
-# flutter_animation_day_night
+# Flutter Animation Day Night
 
-A new Flutter project.
+This is a study of flutter animations in speed code style.
 
-## Getting Started
+This is my exemple:
 
-This project is a starting point for a Flutter application.
+PSS** The quality of the gif is "excellent"
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://github.com/BarbaraLest/Flutter-Animation-Speed-Code-01/blob/master/assets/screenshots/view.gif" width="400" height="800" />
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<img src="https://github.com/BarbaraLest/Flutter-Animation-Speed-Code-01/blob/master/assets/screenshots/day.jpg" />  <img src="https://github.com/BarbaraLest/Flutter-Animation-Speed-Code-01/blob/master/assets/screenshots/night.jpg" /> 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
